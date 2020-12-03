@@ -1,0 +1,6 @@
+# TODO: При деплое заменить на адрес клиента
+#server:
+#  origin: http://example.ru
+
+db:
+  synchronize: false
